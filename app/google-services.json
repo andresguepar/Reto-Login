@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601341042444",
+    "project_id": "loginreto-5f718",
+    "storage_bucket": "loginreto-5f718.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601341042444:android:09ae88cee7462d621f7329",
+        "android_client_info": {
+          "package_name": "com.example.retologin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhQxU8hdTK5Om5wHQYzMPSLd8KGkenXdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
